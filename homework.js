@@ -95,12 +95,13 @@ const capitalizeLeatter = (letter) => {
 
 // 2.1 Capitalize the first letter of a string
 let capitalize = (str) => {
-    let Letters = capitalizeLeatter(str[0]); //send the first letter to capitalized
+    let letters = capitalizeLeatter(str[0]); //send the first letter to capitalized
     for(let i = 1; i < str.length; i++){ 
-        Letters += str[i];  //add to txt the rest letters
+        letters += str[i];  //add to txt the rest letters
     }
-    return Letters;
+    return letters;
 }
+console.log(capitalize("abb"));
 
 
 // 2.2 Capitalize the first letter of each word in a string
