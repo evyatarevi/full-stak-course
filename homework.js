@@ -101,7 +101,6 @@ let capitalize = (str) => {
     }
     return letters;
 }
-console.log(capitalize("abb"));
 
 
 // 2.2 Capitalize the first letter of each word in a string
