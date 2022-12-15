@@ -1,0 +1,14 @@
+{
+    "user1" : {
+        "username": "evi",
+        "password": "123"
+    },
+    "user2" : {
+        "username": "evyatar",
+        "password": "1234567"
+    },
+    "user3" : {
+        "username": "shlomi",
+        "password": "123456"
+    }
+}

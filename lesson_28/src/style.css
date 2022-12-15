@@ -1,0 +1,38 @@
+/* center the login form in the middle of the screen */
+
+
+
+
+
+body{
+    background-image: url("https://fondosmil.com/fondo/14273.jpg");
+}
+
+.flex-container{
+    /* height: 500px; */
+    /* display: flex; */
+    /* justify-content: center; */
+    background-color: rgb(173, 186, 194);
+    margin-top: 250px;
+    margin-left: 500px;
+    width: 200px;
+    height: 100px;
+    text-align:center;
+    border: 2px solid black;
+    border-radius: 15px;
+
+
+}
+#div2{
+    background-color: rgb(173, 186, 194);
+    width: 200px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 50px;
+    text-align:center;
+    display:none;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+
